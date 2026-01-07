@@ -1,10 +1,10 @@
 "use client"
 
-import TanggalEnam from "./tanggal-enam/page"
+import ListUser from "./list-user/page"
 
 export default function Home() {
 
   return (
-    <TanggalEnam />
+    <ListUser />
   )
 }
