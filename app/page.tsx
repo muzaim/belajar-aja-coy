@@ -1,10 +1,7 @@
-"use client"
+"use client";
 
-import ListUser from "./list-user/page"
+import SwitchTabLagi from "./switch-tab-lagi/page";
 
 export default function Home() {
-
-  return (
-    <ListUser />
-  )
+	return <SwitchTabLagi />;
 }
